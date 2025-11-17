@@ -24,7 +24,7 @@ For more information, see [Managing Testers](/testfairy/testers/managing-testers
 
 ## Manage everything through API and Integrations
 
-Sauce Mobile App Distribution provides comprehensive API and integration capabilities, allowing companies to automate app management, user management, beta testers and seamlessly integrate with existing workflows. Use our APIs to manage app/user distribution or to enforce security policies programmatically. 
+Sauce Mobile App Distribution provides comprehensive API and integration capabilities, allowing companies to automate app management, user management, beta testers and seamlessly integrate with existing workflows. Use our APIs to manage app/user distribution or to enforce security policies programmatically.
 Integrate Sauce Mobile App Distribution with your CI/CD pipelines, project management tools, and other enterprise systems to streamline your app development and distribution process.
 For more information, see [API Reference guide](/testfairy/api-reference/rest-api/)
 
